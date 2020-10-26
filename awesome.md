@@ -1,3 +1,4 @@
+Bolisetty sujith(CSE AI-A, AIE65201)
 Shashank Priyadarshi(AM.EN.U4AIE19060)
 Ashwin R(AM.EN.U4CSE19060)
 Rajendra Sai Immadi(AM.EN.U4CSE17060)
